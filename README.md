@@ -1,5 +1,7 @@
 # TTC-Bus-Seating-Covid-19-Prevention-Plan
 Won 1st place in Ryerson's Engineering Competition 2020 with team members Wayne Sie, Ryan Pacheco, & Yajurva Trivedi for creating an effective and affordable TTC bus seating plan to combat Covid-19 exposure. Seating Images are credited to Ryan Pacheco.
+
+**Website Demo**
 https://smartbus.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/68084112/135720789-724f1a97-052d-4076-89c0-b3504db11d49.png)
